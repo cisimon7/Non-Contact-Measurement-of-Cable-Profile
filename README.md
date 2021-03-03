@@ -11,8 +11,10 @@ Progress so far:
 <li>Drawing of the axis representing the orientation of the AruCo markers</li>
 </ol>
 
-Work Left undone
-Detection of the cables in the images
-Get points on the cable in the picture and transform into the 3D scene and get real representation of the cable 
-Model the real points of the cable
-Measure Sagging of the cable 
+Work Left undone:
+<ol>
+<li>Detection of the cables in the images</li>
+<li>Get points on the cable in the picture and transform into the 3D scene and get real representation of the cable</li> 
+<li>Model the real points of the cable
+<li>Measure Sagging of the cable </li>
+</ol>
